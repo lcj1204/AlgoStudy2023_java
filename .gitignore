@@ -22,6 +22,7 @@ out/
 *.jar
 *.properties
 *.bat
+gradlew
 
 ### Eclipse ###
 .apt_generated
